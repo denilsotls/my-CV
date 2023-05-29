@@ -108,6 +108,11 @@
     width: 20%;
 }
 
+.education-description a {
+    text-decoration: underline;
+    color: white;  
+}
+
 @media (min-width: 992px) {
     .container {
         display: flex;
