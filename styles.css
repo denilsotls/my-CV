@@ -16,14 +16,14 @@
 }
 .information-column hr{
     border: none;
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid rgb(89, 155, 235);
     margin-top: 18px;
 }
 .information-column img {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    border: 1px solid green;
+    border: 1px solid rgb(89, 155, 235);
     margin-bottom: 18px;
 }
 
@@ -46,7 +46,7 @@
 }
 
 .contact-description i {
-    color: green;
+    color: rgb(89, 155, 235);
     margin-right: 10px;
 }
 
@@ -54,7 +54,7 @@
     margin-top: 32Spx;
 }
 .education-description p{
-    color:green;
+    color:rgb(89, 155, 235);
 }
 
 .experiences-column {
@@ -93,7 +93,7 @@
 
 .language-description .percent {
     height: 6px;
-    background-color: green;
+    background-color: rgb(89, 155, 235);
     margin-top: 5px;
     width: 205px;
 }
@@ -111,6 +111,15 @@
 .education-description a {
     text-decoration: underline;
     color: white;  
+}
+
+.education-description a {
+    text-decoration: none;
+}
+
+.experiencia h4{
+    font-weight: bold
+
 }
 
 @media (min-width: 992px) {
